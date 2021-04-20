@@ -66,7 +66,7 @@ li{
 
 .main-caption{
     text-align: center;
-    margin-bottom: 71px;
+    margin-bottom: 69px;
     font-size: 36px;
     line-height: 48px;
     font-weight: 700;
@@ -144,6 +144,11 @@ li{
     width: 750px;
 }
 
+.treatment__text-position p{
+    font-size: 20px;
+    line-height: 32px;
+}
+
 .treatment__list:not(:last-child){
     margin-bottom: 37px;
 }
@@ -173,7 +178,7 @@ li{
     background: url('../img/header_bg.jpg') 50% 100% no-repeat;
     background-position: top;
     /* background-size: cover; */
-    padding-bottom: 142px;
+    padding-bottom: 132px;
 }
 
 .header-phone-position{
@@ -258,7 +263,7 @@ li{
 }
 
 .fixed-active .menu-list-item a:hover{
-    color: #777;
+    color: #f8485e;
     border-bottom: none;
 }
 
@@ -958,7 +963,7 @@ li{
     }
 
     .header-section{
-        padding-bottom: 142px;
+        padding-bottom: 131px;
         /* background-size: cover; */
     }
 
@@ -1387,7 +1392,7 @@ li{
         font-weight: 700;
         text-align: center;
         margin-top: 0;
-        margin-bottom: 33px;
+        margin-bottom: 31px;
     }
 
     .recomended__text{
