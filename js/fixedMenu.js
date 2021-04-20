@@ -94,10 +94,10 @@ if($(window).width()> 767){
 		if(600 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 12000){
+		if(scrolled > 11700){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 12000){
+		if(scrolled < 11700){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -131,10 +131,10 @@ if($(window).width()> 330){
 		if(550 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 12000){
+		if(scrolled > 12750){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 12000){
+		if(scrolled < 12750){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
